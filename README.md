@@ -1,2 +1,2 @@
 # test
-tes out git repos
+test out git repos
